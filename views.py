@@ -3,3 +3,6 @@ def index(request):
 
 def cart(request):
     pass
+
+def cart_logic(request):
+    pass
